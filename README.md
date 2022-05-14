@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Duncan</h1>
 <h3 align="center">A software engineer that specializes in back-end development</h3>
 
-- 🔭 I’m currently working on **An Applied Methods and Research Experience**
+- 🔭 I’m currently working on **An Applied Methods and Research Experience Project**
 
 - 🌱 I’m currently learning **React**
 
