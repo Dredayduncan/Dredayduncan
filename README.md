@@ -16,9 +16,3 @@
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dredayduncan&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dredayduncan&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredayduncan&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
