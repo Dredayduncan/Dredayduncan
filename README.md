@@ -3,13 +3,13 @@
 
 - 📫 How to reach me **dredayduncan@gmail.com**
 
-- <p><a href="https://www.dredayduncan.com" target="blank" rel="noreferrer">🌍 Check out my portfolio website</a></p>
+- <p><a href="https://www.dredayduncan.com" target="_blank">🌍 Check out my portfolio website</a></p>
 
 - ⚡ Fun fact **I love basketball, photography, and videography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dredayduncan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dredayduncan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dredayduncan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dredayduncan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
