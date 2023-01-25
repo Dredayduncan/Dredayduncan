@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **dredayduncan@gmail.com**
 
+- You can also [Check out my portfolio website]([https://github.com/Dredayduncan/mySafeCampusPrivacyPolicy/blob/main/README.md](https://www.dredayduncan.com))
+
 - ⚡ Fun fact **I love basketball, photography, and videography**
 
 <h3 align="left">Connect with me:</h3>
