@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **dredayduncan@gmail.com**
 
-- <a href="https://www.dredayduncan.com" target="blank"><p>Check out my portfolio website</p></a>
+- 🌍 <p><a href="https://www.dredayduncan.com" target="_blank" rel="noreferrer">Check out my portfolio website</a></p>
 
 - ⚡ Fun fact **I love basketball, photography, and videography**
 
