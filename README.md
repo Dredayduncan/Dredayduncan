@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Duncan</h1>
 <h3 align="center">A software engineer that specializes in Mobile Application & Back-End development</h3>
 
-- <p><a href="https://www.dredayduncan.com" target="_blank">🌍 Check out my portfolio website</a></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
